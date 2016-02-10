@@ -1,0 +1,18 @@
+/* aside */
+
+div.quote {
+    padding-top: 4%;
+    padding-bottom: 4%;
+    margin-bottom: 5%;
+    font-family: 'Neucha', cursive;
+    font-size: 1em;
+}
+aside figure{
+    padding-top: 4%;
+    padding-bottom: 4%;
+    margin-bottom: 5%;
+    text-align: center;
+}
+aside figure img {
+    width: 60%;
+}

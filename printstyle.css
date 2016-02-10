@@ -1,0 +1,24 @@
+/* printstyle */
+
+aside#sidebar {
+    display: none;
+    }
+    
+    body {
+    font-size: 12pt;
+    font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+    }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+   font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+ a:after{
+ content:" (" attr(href) ") ";
+ font-size:0.8em;
+ font-weight:normal;
+ }
